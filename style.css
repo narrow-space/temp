@@ -1,0 +1,60 @@
+body{background-image: url(image/pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    font-size: 8em;
+    
+}
+    
+@media screen and (max-width:376px) { 
+    body {
+    background-image: url(image/pic4.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+    
+   
+   
+}
+
+
+    
+
+
+
+}
+
+
+    
+@media screen and (max-width:414px) { 
+    body {
+    background-image: url(image/pic4.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+   
+   
+}}
+   
+ 
+  
+
+
+
+
+.temp{
+    text-align:center;
+    margin-top:50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight:700;
+    color:wheat  ;
+    
+
+
+}
+
+
+
+   
+ 
